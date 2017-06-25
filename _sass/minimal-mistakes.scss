@@ -38,3 +38,18 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+.greedy-nav a.site-title {
+  margin-left:0;
+  display: flex;
+}
+.elephant-logo {
+  margin-right: 0.5em;
+  height: 2.5em;
+  width: 3em;
+}
+.logo-text {
+  text-transform: uppercase;
+  color: #ffa500;
+  font-size: 1.3em;
+}
