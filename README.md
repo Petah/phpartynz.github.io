@@ -1,4 +1,4 @@
-# PHParty static website generator
+# PHParty static website
 
 Powered by [Jekyll](https://github.com/jekyll/jekyll) and [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. 
 
