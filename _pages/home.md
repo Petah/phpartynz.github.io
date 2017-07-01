@@ -23,7 +23,7 @@ feature_row:
     url: "/join/"
     btn_label: "<i class='fa fa-sign-in'></i> Join discussion"
 intro:
-  - excerpt: 'Never miss an update &nbsp; [<i class="fa fa-twitter"></i> Follow us on Twitter](https://twitter.com/phpartynz){: .btn .btn--twitter}'
+  - excerpt: 'Never miss an update &nbsp; [<i class="fa fa-twitter"></i> Follow](https://twitter.com/phpartynz){: .btn .btn--twitter} &nbsp; [<i class="fa fa-facebook"></i> Like](https://facebook.com/phhparty){: .btn .btn--facebook}'
 ---
 
 {% include feature_row id="intro" type="center" %}

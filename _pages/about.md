@@ -3,7 +3,6 @@ layout: splash
 permalink: /about/
 title: "About"
 excerpt: "PHParty is a community of PHP developers @New Zealand."
-last_modified_at: 2017-02-14T14:28:13-05:00
 ---
 ## Who are we?
 We are an open community of developers focused on open source, latest technologies and best practises in software development.

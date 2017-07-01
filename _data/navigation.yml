@@ -1,5 +1,7 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Join"
     url: /join/
+#  - title: "Blog"
+#    url: https://medium.com/phparty
+  - title: "About"
+    url: /about/
