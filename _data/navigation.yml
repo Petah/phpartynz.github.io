@@ -1,7 +1,18 @@
 main:
   - title: "Join"
     url: /join/
-#  - title: "Blog"
-#    url: https://medium.com/phparty
+#  - title: "Wiktionary"
+#    url: /wiktionary/
   - title: "About"
     url: /about/
+
+# sidebar navigation list sample
+wiktionary:
+  - title: "Sections"
+    children:
+      - title: "Language"
+        url: /
+      - title: "Architecture"
+        url: /
+      - title: "Application"
+        url: /
